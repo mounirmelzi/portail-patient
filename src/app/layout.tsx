@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { ThemeProvider } from "next-themes";
-import "./globals.css";
+import ContextProviders from "@/context/ContextProviders";
+import "@/app/globals.css";
 
 export const metadata: Metadata = {
   title: "Portail Patient",
@@ -20,7 +21,7 @@ export default function RootLayout({
           enableSystem={false}
           disableTransitionOnChange
         >
-          {children}
+          <ContextProviders>{children}</ContextProviders>
         </ThemeProvider>
       </body>
     </html>
