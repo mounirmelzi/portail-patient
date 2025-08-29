@@ -1,0 +1,30 @@
+{
+  "patient": {
+    "prenom": "Stéphane",
+    "nom": "Marcil",
+    "dateNaissance": "October 4, 1949"
+  },
+  "antecedents": [
+    "Hypertension artérielle",
+    "Appendicectomie (2015)",
+    "Fracture du bras droit (2012)"
+  ],
+  "allergies": ["Pollens", "Arachides", "Pénicilline"],
+  "traitements": [
+    {
+      "nom": "Ramipril",
+      "dose": "5 mg",
+      "frequence": "1 comprimé par jour"
+    },
+    {
+      "nom": "Vitamine D",
+      "dose": "1000 UI",
+      "frequence": "1 capsule par semaine"
+    },
+    {
+      "nom": "Paracétamol",
+      "dose": "500 mg",
+      "frequence": "si douleurs, maximum 3 fois par jour"
+    }
+  ]
+}

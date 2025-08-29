@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "medecin": "Dr. Marie Dupont",
+    "specialite": "Cardiologue",
+    "date": "2025-09-12T10:00:00",
+    "lieu": "Hôpital Européen Georges-Pompidou, Paris",
+    "statut": "à venir"
+  },
+  {
+    "id": 2,
+    "medecin": "Dr. Jean Martin",
+    "specialite": "Dermatologue",
+    "date": "2025-08-10T15:30:00",
+    "lieu": "CHU de Lyon",
+    "statut": "passé"
+  },
+  {
+    "id": 3,
+    "medecin": "Dr. Sophie Bernard",
+    "specialite": "Dentiste",
+    "date": "2025-09-20T09:00:00",
+    "lieu": "Cabinet Dentaire République, Marseille",
+    "statut": "à venir"
+  },
+  {
+    "id": 4,
+    "medecin": "Dr. Antoine Lefèvre",
+    "specialite": "Médecin généraliste",
+    "date": "2025-07-05T11:00:00",
+    "lieu": "Maison de Santé, Lille",
+    "statut": "passé"
+  }
+]

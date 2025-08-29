@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "categorie": "Nutrition",
+    "message": "Buvez au moins 1,5 litre d'eau par jour."
+  },
+  {
+    "id": 2,
+    "categorie": "Activité physique",
+    "message": "Pratiquez 30 minutes de marche rapide quotidienne."
+  },
+  {
+    "id": 3,
+    "categorie": "Sommeil",
+    "message": "Essayez de dormir entre 7 et 8 heures chaque nuit."
+  },
+  {
+    "id": 4,
+    "categorie": "Nutrition",
+    "message": "Consommez au minimum 5 portions de fruits et légumes par jour."
+  },
+  {
+    "id": 5,
+    "categorie": "Activité physique",
+    "message": "Utilisez les escaliers plutôt que l'ascenseur."
+  },
+  {
+    "id": 6,
+    "categorie": "Sommeil",
+    "message": "Évitez les écrans 1 heure avant le coucher."
+  }
+]
