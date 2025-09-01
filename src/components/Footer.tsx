@@ -17,6 +17,11 @@ export default function Footer() {
           <h4 className="font-semibold mb-3">Liens Rapides</h4>
           <ul className="space-y-2">
             <li>
+              <Link href="/" className="hover:text-primary">
+                Home
+              </Link>
+            </li>
+            <li>
               <Link href="/dossier" className="hover:text-primary">
                 Dossier
               </Link>

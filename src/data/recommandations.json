@@ -28,5 +28,35 @@
     "id": 6,
     "categorie": "Sommeil",
     "message": "Évitez les écrans 1 heure avant le coucher."
+  },
+  {
+    "id": 7,
+    "categorie": "Nutrition",
+    "message": "Limitez votre consommation de sel à moins de 5 g par jour."
+  },
+  {
+    "id": 8,
+    "categorie": "Nutrition",
+    "message": "Privilégiez les céréales complètes aux produits raffinés."
+  },
+  {
+    "id": 9,
+    "categorie": "Activité physique",
+    "message": "Étirez-vous 10 minutes après chaque séance de sport."
+  },
+  {
+    "id": 10,
+    "categorie": "Activité physique",
+    "message": "Essayez de faire du vélo ou de la natation 2 fois par semaine."
+  },
+  {
+    "id": 11,
+    "categorie": "Sommeil",
+    "message": "Essayez de vous coucher et de vous lever à des heures régulières."
+  },
+  {
+    "id": 12,
+    "categorie": "Sommeil",
+    "message": "Gardez votre chambre à une température fraîche (18-20°C)."
   }
 ]

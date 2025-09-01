@@ -7,9 +7,18 @@
   "antecedents": [
     "Hypertension artérielle",
     "Appendicectomie (2015)",
-    "Fracture du bras droit (2012)"
+    "Fracture du bras droit (2012)",
+    "Diabète de type 2 (diagnostiqué en 2020)",
+    "Cholestérol élevé",
+    "Opération de la cataracte (2018)"
   ],
-  "allergies": ["Pollens", "Arachides", "Pénicilline"],
+  "allergies": [
+    "Pollens",
+    "Arachides",
+    "Pénicilline",
+    "Fruits de mer",
+    "Latex"
+  ],
   "traitements": [
     {
       "nom": "Ramipril",
@@ -25,6 +34,16 @@
       "nom": "Paracétamol",
       "dose": "500 mg",
       "frequence": "si douleurs, maximum 3 fois par jour"
+    },
+    {
+      "nom": "Metformine",
+      "dose": "850 mg",
+      "frequence": "2 comprimés par jour"
+    },
+    {
+      "nom": "Atorvastatine",
+      "dose": "20 mg",
+      "frequence": "1 comprimé le soir"
     }
   ]
 }

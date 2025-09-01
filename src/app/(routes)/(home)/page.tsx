@@ -3,9 +3,7 @@
 import { useDossier } from "@/hooks/useDossier";
 import { useRecommandations } from "@/hooks/useRecommandations";
 import { useRendezvous } from "@/hooks/useRendezvous";
-
 import { Loader2 } from "lucide-react";
-
 import RendezvousCard from "@/components/RendezvousCard";
 import RecommandationCard from "@/components/RecommandationCard";
 

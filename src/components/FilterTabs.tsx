@@ -24,7 +24,7 @@ export default function FilterTabs<T>({
           value="all"
           className="w-full rounded-none px-4 py-2 text-center text-sm font-medium text-muted-foreground data-[state=active]:text-primary"
         >
-          Toutes
+          Tous
         </TabsTrigger>
 
         {tabs.map((tab) => (

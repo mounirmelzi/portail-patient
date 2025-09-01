@@ -1,7 +1,6 @@
 "use client";
 
 import { useDossier } from "@/hooks/useDossier";
-
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Loader2 } from "lucide-react";
